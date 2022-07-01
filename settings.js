@@ -36,7 +36,7 @@ global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎Duneesha❯❯' //Author Name
+global.author = '😎Duneesha Max❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
